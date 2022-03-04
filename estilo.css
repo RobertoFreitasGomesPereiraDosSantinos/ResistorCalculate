@@ -1,0 +1,9 @@
+.faixas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.terFX {
+    display: none;
+}
